@@ -1,0 +1,7 @@
+.env
+venv
+thumbnail.png
+.mypy_cache
+.venv
+chroma_db/
+data/
